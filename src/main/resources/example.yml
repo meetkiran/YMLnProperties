@@ -1,0 +1,23 @@
+# this is comment
+name: kiran
+names:
+    - kiran
+    - ketan
+    - shivsamb
+
+book:
+    author: 1st author
+    publisher: 1st publisher
+
+truth: yes
+
+another_truth: True
+
+more_true: true
+
+false: no #no,False,false,FALSE
+
+string_val: "this is string"
+
+
+
