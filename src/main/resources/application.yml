@@ -1,0 +1,5 @@
+guru:
+ jms:
+   password: JMSpwd
+   username: JMSUsername yml
+   url: JMSUrl

@@ -11,7 +11,7 @@ import org.springframework.context.support.PropertySourcesPlaceholderConfigurer;
 import org.springframework.core.env.Environment;
 
 @Configuration
-@PropertySource({"classpath:datasource.properties","classpath:jms.properties"})
+@PropertySource({"classpath:datasource.properties"})
 public class PropertyConfig {
 
     @Value("${guru.username}")
